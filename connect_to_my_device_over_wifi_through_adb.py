@@ -5,6 +5,7 @@ from subprocess import Popen, PIPE
 '''
 Made by @Scuffedbots on Instagram
 
+Phone must be plugged for this script to apply, after a connection has been made, phone can be unplugged (Unless it has root and in that case it needs the Adb Over Wifi (ROOT) app on the play store to avoid plugging it for connection).
 To Truly Make This One-Click-Only You Must:
     1. pip install pyinstaller
     2. compile this python file using the command:
